@@ -30,6 +30,9 @@ GLUON_SITE_PACKAGES := \
     ffho-autoupdater-wifi-fallback \
     ffho-web-autoupdater 
 
+# Wenn FFHO-web-autoupdater weg ist, dann web-autoupdater einschalten!
+#
+
 ##	DEFAULT_GLUON_RELEASE
 #		version string to use for images
 #		gluon relies on
